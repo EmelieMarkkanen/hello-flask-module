@@ -1,3 +1,5 @@
+Introduction and code along project for using Flask via Code Institute
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome USER_NAME,
