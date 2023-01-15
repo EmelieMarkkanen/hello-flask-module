@@ -7,3 +7,6 @@ __pycache__/
 node_modules/
 .github/
 cloudinary_python.txt
+env.py
+
+Heroku API-key: f5c66d43-3e96-405f-9600-d22430a5edc2
